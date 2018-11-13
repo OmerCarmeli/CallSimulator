@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{2A26F87F-F3B0-4A5F-8CBB-3F5CD2FCBDDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN.Common", "..\..\..\Desktop\Sela\Cellolar Network\Cellular Network\Cellular Network\CN.Common\CN.Common\CN.Common.csproj", "{19D5C0D0-AD99-4075-B776-5EE1BBF1E2DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A26F87F-F3B0-4A5F-8CBB-3F5CD2FCBDDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A26F87F-F3B0-4A5F-8CBB-3F5CD2FCBDDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A26F87F-F3B0-4A5F-8CBB-3F5CD2FCBDDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A26F87F-F3B0-4A5F-8CBB-3F5CD2FCBDDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D5C0D0-AD99-4075-B776-5EE1BBF1E2DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D5C0D0-AD99-4075-B776-5EE1BBF1E2DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D5C0D0-AD99-4075-B776-5EE1BBF1E2DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D5C0D0-AD99-4075-B776-5EE1BBF1E2DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A2EC612-A2B9-4C61-93D4-A50EF01937E2}
+	EndGlobalSection
+EndGlobal
